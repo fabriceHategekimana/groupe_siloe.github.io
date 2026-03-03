@@ -5,16 +5,13 @@ title: Charte de la chorale
 
 # Charte de la chorale Siloé
 
-:::info
-Ce document est un modèle. Remplacez le contenu par la charte officielle de votre chorale.
-:::
-
 ## Notre vision
 
-La chorale Siloé est un ministère de louange et d'adoration au sein de notre église. Notre vision est de glorifier Dieu par le chant et d'amener les fidèles dans l'intimité de la louange.
+La chorale Siloé est un ministère de louange et d'adoration au sein de La mission évangélique protestante de Châtelaine. Notre vision est d'amener les croyant à la dimension des adorateurs de Dieu afin qu'il soit glorifié. 
 
 ## Notre mission
 
+- Expérimenter la vie de l'adorateur
 - Conduire l'assemblée dans la louange et l'adoration
 - Former et encourager les talents musicaux au sein de l'église
 - Créer une atmosphère propice à la présence de Dieu

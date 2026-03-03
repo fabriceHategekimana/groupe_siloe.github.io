@@ -5,10 +5,6 @@ title: Règlement intérieur
 
 # Règlement intérieur
 
-:::info
-Ce document est un modèle. Remplacez le contenu par le règlement officiel de votre chorale.
-:::
-
 ## 1. Présence et ponctualité
 
 - Les membres doivent être présents aux répétitions régulières
@@ -17,14 +13,14 @@ Ce document est un modèle. Remplacez le contenu par le règlement officiel de v
 
 ## 2. Répétitions
 
-- Les répétitions ont lieu chaque **[jour]** de **[heure]** à **[heure]**
+- Sauf imprévu, les répétitions ont lieu chaque **Samedi** de **13h** à **15h**
 - Chaque membre doit connaître les chants avant la répétition
 - Les partitions et paroles doivent être préparées en amont
 
 ## 3. Tenue vestimentaire
 
 - Une tenue correcte et décente est exigée lors des prestations
-- Les consignes spécifiques seront communiquées avant chaque événement
+- Un uniforme peut être décidé unanimement selon les événements en cours
 
 ## 4. Comportement
 
@@ -40,7 +36,7 @@ Ce document est un modèle. Remplacez le contenu par le règlement officiel de v
 
 ## 6. Communication
 
-- Les informations sont partagées via **[canal de communication]**
+- Les informations sont partagées via **Whatsapp**
 - Chaque membre doit consulter régulièrement les communications
 - Les annonces importantes sont faites lors des répétitions
 

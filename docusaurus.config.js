@@ -20,6 +20,10 @@ const config = {
 
   onBrokenLinks: 'throw',
 
+  plugins: [
+    require.resolve('./src/plugins/latest-programme'),
+  ],
+
   i18n: {
     defaultLocale: 'fr',
     locales: ['fr'],

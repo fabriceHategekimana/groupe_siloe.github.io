@@ -1,32 +1,60 @@
 ---
-title: "Culte du dimanche - 1er mars 2026"
-sidebar_label: "01/03/2026 - Culte (Exemple)"
+title: "Culte du dimanche - 8 mars 2026"
+sidebar_label: "08/03/2026 - Culte des mamans"
 sidebar_position: 99
 ---
 
-# Programme du culte - Dimanche 1er mars 2026
+# Programme du culte - Dimanche 8 mars 2026
 
 **Type :** Culte du dimanche
-**Lieu :** Église
-**Heure :** 10h00
+
+**Lieu :** MEP
+
+**Heure :** 13h00
 
 ---
 
-:::info
-Ceci est un programme d'exemple. Remplacez-le par vos vrais programmes.
-:::
+## Entrée
+| chant                             | tonalité | lien |
+| ---                               | ---      | ---  |
+| Reçois ma louange                 | fa       | -    |
+| Oh mon Dieu                       | fa       | -    |
+| Ni Yesu                           | fa       | -    |
 
-## Liste des chants
+## Adoration
 
-| # | Chant | Tonalité | Notes |
-|---|-------|----------|-------|
-| 1 | [Tu es digne (Exemple)](/docs/chants/exemple-chant) | Ré maj | Ouverture |
-| 2 | Chant de louange | Mi min | Adoration lente |
-| 3 | Chant joyeux | Sol maj | Louange dynamique |
-| 4 | Chant de clôture | Do maj | Bénédiction |
+| chant                             | tonalité | lien |
+| ---                               | ---      | ---  |
+| Zua nkembo                        | mi       | -    |
+| Kita (déscend)                    | mi       | -    |
+| Likolo na se                      | mi       | -    |
+| Gloire à l'agneau                 | la       | -    |
+
+## Louange
+
+| chant                        | tonalité | lien |
+| ---                          | ---      | ---  |
+| Nous avons Jésus             | mi       | -    |
+| Plus haut plus haut          | mi       | -    |
+| Moi j'ai trouvé Jésus Christ | mi       | -    |
+
+## Offrandes
+
+| chant      | tonalité | lien                                              |
+| ---        | ---      | ---                                               |
+| Amina lele | la       | https://www.youtube.com/watch?v=4_y5MAGe7Fo       |
+| Grand Dieu | la       | -                                                 |
+| Il fera    | la       | https://www.youtube.com/watch?v=HlERVocf3_M&t=18s |
+
+## Clôture
+
+| chant                    | tonalité | lien |
+| ---                      | ---      | ---  |
+| Tu es assis sur le trône | ré       | -    |
 
 ## Notes
 
-- Le chef de choeur dirigera l'ouverture
-- Transition instrumentale entre les chants 2 et 3
-- Possibilité de reprendre le refrain du chant 2 en fin de programme
+- Le programme de chant est adapté pour les mamans
+- Le but n'est pas la quantité mais la qualité 
+- Il faudra mettre de l'accent sur les louanges
+
