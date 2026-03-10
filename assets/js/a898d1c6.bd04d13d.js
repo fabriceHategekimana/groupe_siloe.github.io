@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksiloe_site=globalThis.webpackChunksiloe_site||[]).push([[409],{7640(e){e.exports=JSON.parse('{"authors":[{"name":"Chorale Silo\xe9","title":"Choeur d\'Adoration","url":"/","key":"siloe","page":null,"count":1}]}')}}]);

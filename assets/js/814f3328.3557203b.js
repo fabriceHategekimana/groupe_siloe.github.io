@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksiloe_site=globalThis.webpackChunksiloe_site||[]).push([[91],{5513(e){e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Bienvenue sur le site de Silo\xe9","permalink":"/groupe_siloe.github.io/blog/2026/03/01/bienvenue","unlisted":false,"date":"2026-03-01T00:00:00.000Z"}]}')}}]);

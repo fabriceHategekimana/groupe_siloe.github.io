@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?><?xml-stylesheet type="text/xsl" href="rss.xsl"?>
+<rss version="2.0" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+    <channel>
+        <title>Siloé Blog</title>
+        <link>https://fabriceHategekimana.github.io/groupe_siloe.github.io/blog</link>
+        <description>Siloé Blog</description>
+        <lastBuildDate>Sun, 01 Mar 2026 00:00:00 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>fr</language>
+        <item>
+            <title><![CDATA[Bienvenue sur le site de Siloé]]></title>
+            <link>https://fabriceHategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue</link>
+            <guid>https://fabriceHategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue</guid>
+            <pubDate>Sun, 01 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[Bienvenue sur le nouveau site web de la chorale Siloé !]]></description>
+            <content:encoded><![CDATA[<p>Bienvenue sur le nouveau site web de la chorale <strong>Siloé</strong> !</p>
+<p>Vous y trouverez toutes les informations relatives à notre chorale : chants, programmes, répétitions, événements et bien plus encore.</p>
+<h2 class="anchor anchorTargetStickyNavbar_Vzrq" id="ce-que-vous-trouverez-ici">Ce que vous trouverez ici<a href="https://fabricehategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue#ce-que-vous-trouverez-ici" class="hash-link" aria-label="Lien direct vers Ce que vous trouverez ici" title="Lien direct vers Ce que vous trouverez ici" translate="no">​</a></h2>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="chants--paroles">Chants &amp; Paroles<a href="https://fabricehategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue#chants--paroles" class="hash-link" aria-label="Lien direct vers Chants &amp; Paroles" title="Lien direct vers Chants &amp; Paroles" translate="no">​</a></h3>
+<p>Toutes les paroles de nos chants sont disponibles dans la section <a class="" href="https://fabricehategekimana.github.io/groupe_siloe.github.io/docs/chants/repertoire">Chants</a>. Vous pouvez y accéder à tout moment pour préparer vos répétitions.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="programmes">Programmes<a href="https://fabricehategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue#programmes" class="hash-link" aria-label="Lien direct vers Programmes" title="Lien direct vers Programmes" translate="no">​</a></h3>
+<p>Les programmes de chaque culte et événement sont consultables dans la section <a class="" href="https://fabricehategekimana.github.io/groupe_siloe.github.io/docs/programmes/liste-programmes">Programmes</a>.</p>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="journal">Journal<a href="https://fabricehategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue#journal" class="hash-link" aria-label="Lien direct vers Journal" title="Lien direct vers Journal" translate="no">​</a></h3>
+<p>Ce blog sera mis à jour régulièrement avec :</p>
+<ul>
+<li class="">Les comptes-rendus de nos <strong>répétitions</strong></li>
+<li class="">Les récits de nos <strong>événements</strong></li>
+<li class="">Des <strong>vidéos</strong> de louange inspirantes</li>
+<li class="">Les <strong>annonces</strong> importantes</li>
+</ul>
+<h3 class="anchor anchorTargetStickyNavbar_Vzrq" id="documents">Documents<a href="https://fabricehategekimana.github.io/groupe_siloe.github.io/blog/2026/03/01/bienvenue#documents" class="hash-link" aria-label="Lien direct vers Documents" title="Lien direct vers Documents" translate="no">​</a></h3>
+<p>La <a class="" href="https://fabricehategekimana.github.io/groupe_siloe.github.io/docs/vie-de-la-chorale/charte">charte</a> et le <a class="" href="https://fabricehategekimana.github.io/groupe_siloe.github.io/docs/vie-de-la-chorale/reglement">règlement</a> de la chorale sont disponibles dans la section "La Chorale".</p>
+<hr>
+<p>Que ce site soit un outil au service de notre louange et de notre unité.</p>
+<p><em>La chorale Siloé</em></p>]]></content:encoded>
+            <category>annonce</category>
+        </item>
+    </channel>
+</rss>

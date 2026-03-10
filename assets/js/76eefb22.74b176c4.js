@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksiloe_site=globalThis.webpackChunksiloe_site||[]).push([[742],{9961(e){e.exports=JSON.parse('{"tags":[{"label":"annonce","permalink":"/groupe_siloe.github.io/blog/tags/annonce","count":1}]}')}}]);

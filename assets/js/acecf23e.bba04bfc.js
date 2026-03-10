@@ -1,0 +1,1 @@
+"use strict";(globalThis.webpackChunksiloe_site=globalThis.webpackChunksiloe_site||[]).push([[903],{1912(o){o.exports=JSON.parse('{"blogBasePath":"/groupe_siloe.github.io/blog","blogTitle":"Journal de la chorale","authorsListPath":"/groupe_siloe.github.io/blog/authors"}')}}]);
