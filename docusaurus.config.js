@@ -5,7 +5,6 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Siloé',
   tagline: "L'identité des adorateurs",
-  favicon: 'img/favicon.ico',
 
   future: {
     v4: true,
