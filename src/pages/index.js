@@ -169,12 +169,6 @@ function FeaturesSection() {
       link: '/docs/programmes/liste-programmes',
       icon: '♫',
     },
-    {
-      title: 'Journal',
-      description: 'Suivez nos répétitions, événements et découvrez des vidéos de louange inspirantes.',
-      link: '/blog',
-      icon: '✦',
-    },
   ];
 
   return (

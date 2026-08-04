@@ -36,18 +36,7 @@ const config = {
         docs: {
           sidebarPath: './sidebars.js',
         },
-        blog: {
-          showReadingTime: true,
-          blogTitle: 'Journal de la chorale',
-          blogDescription: 'Répétitions, événements et moments de louange de la chorale Siloé',
-          feedOptions: {
-            type: ['rss', 'atom'],
-            xslt: true,
-          },
-          onInlineTags: 'warn',
-          onInlineAuthors: 'warn',
-          onUntruncatedBlogPosts: 'warn',
-        },
+        blog: false,
         theme: {
           customCss: './src/css/custom.css',
         },
@@ -86,13 +75,6 @@ const config = {
             position: 'left',
             label: 'La Chorale',
           },
-          {
-            type: 'docSidebar',
-            sidebarId: 'tutorielsSidebar',
-            position: 'left',
-            label: 'Tutoriels',
-          },
-          {to: '/blog', label: 'Journal', position: 'left'},
         ],
       },
       footer: {
@@ -121,19 +103,6 @@ const config = {
               {
                 label: 'Règlement',
                 to: '/docs/vie-de-la-chorale/reglement',
-              },
-            ],
-          },
-          {
-            title: 'Plus',
-            items: [
-              {
-                label: 'Journal',
-                to: '/blog',
-              },
-              {
-                label: 'Tutoriels',
-                to: '/docs/tutoriels/bienvenue',
               },
             ],
           },
