@@ -149,6 +149,11 @@ function HomepageHeader() {
             to="/docs/chants/repertoire">
             Chants
           </Link>
+          <Link
+            className={styles.heroButtonSpecial}
+            to="https://www.youtube.com/watch?v=bVBtqs8aY4E&list=PLMbJmd1S9aNo">
+            Nouvel An
+          </Link>
         </div>
       </div>
     </header>
