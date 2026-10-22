@@ -151,7 +151,7 @@ function HomepageHeader() {
           </Link>
           <Link
             className={styles.heroButtonSpecial}
-            to="https://www.youtube.com/watch?v=bVBtqs8aY4E&list=PLMbJmd1S9aNo">
+            to="https://youtube.com/playlist?list=PLMbJmd1S9aNo&si=zRppQFAaIRQjLgnn">
             Nouvel An
           </Link>
         </div>
